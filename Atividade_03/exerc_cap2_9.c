@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/* FaÁa um programa em C que permita entrar com o ano de nascimento da pessoa
-e com o ano atual. O programa deve imprimir a idade da pessoa. N„o se esqueÁa
-de verificar se o ano de nascimento informado È v·lido. */
+/* Fa√ßa um programa em C que permita entrar com o ano de nascimento da pessoa
+e com o ano atual. O programa deve imprimir a idade da pessoa. N√£o se esque√ßa
+de verificar se o ano de nascimento informado √© v√°lido. */
 
 
 int main(){
