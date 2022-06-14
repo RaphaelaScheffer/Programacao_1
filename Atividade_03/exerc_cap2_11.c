@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Faça um programa que leia 3 números e imprima o maior deles
+// FaÃ§a um programa que leia 3 nÃºmeros e imprima o maior deles
 
 
 int main(){
