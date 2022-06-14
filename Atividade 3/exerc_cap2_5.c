@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Faça um programa em C que leia um número e informe se ele é divisível por 3 e por 7.
+//FaÃ§a um programa em C que leia um nÃºmero e informe se ele Ã© divisÃ­vel por 3 e por 7.
 
 int main(){
 
