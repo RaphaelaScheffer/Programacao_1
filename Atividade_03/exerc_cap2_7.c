@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Faça um programa em C que leia um número e indique se o número está compreendido entre 20 e 50 ou não.
+//FaÃ§a um programa em C que leia um nÃºmero e indique se o nÃºmero estÃ¡ compreendido entre 20 e 50 ou nÃ£o.
 
 int main(){
 
