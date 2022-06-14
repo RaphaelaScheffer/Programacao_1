@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*A prefeitura do Rio de Janeiro abriu uma linha de crÈdito para os funcion·rios
-  estatut·rios. O valor m·ximo da prestaÁ„o n„o poder· ultrapassar 30% do sal·rio
-  bruto. FaÁa um programa em linguagem C que permita entrar com o sal·rio bruto
-  e o valor da prestaÁ„o e informar se o emprÈstimo pode ou n„o ser concedido */
+/*A prefeitura do Rio de Janeiro abriu uma linha de cr√©dito para os funcion√°rios
+  estatut√°rios. O valor m√°ximo da presta√ß√£o n√£o poder√° ultrapassar 30% do sal√°rio
+  bruto. Fa√ßa um programa em linguagem C que permita entrar com o sal√°rio bruto
+  e o valor da presta√ß√£o e informar se o empr√©stimo pode ou n√£o ser concedido */
 
 int main(){
 
