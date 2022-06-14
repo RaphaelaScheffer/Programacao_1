@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-/* O banco XXX concederá um crédito especial com juros de 2% aos seus clientes
-de acordo com o saldo médio no último ano. Faça um programa que leia o saldo
-médio de um cliente e calcule o valor do crédito de acordo com a tabela a seguir.
-O programa deve imprimir uma mensagem informando o saldo médio e o valor
-de crédito.
-                          Saldo Médio              Percentual
-                          de 0 a 500             nenhum crédito
-                        de 501 a 1000            30% do valor do saldo médio
-                       de 1001 a 3000            40% do valor do saldo médio
-                       acima de 3001             50% do valor do saldo médio */
+/* O banco XXX concederÃ¡ um crÃ©dito especial com juros de 2% aos seus clientes
+de acordo com o saldo mÃ©dio no Ãºltimo ano. FaÃ§a um programa que leia o saldo
+mÃ©dio de um cliente e calcule o valor do crÃ©dito de acordo com a tabela a seguir.
+O programa deve imprimir uma mensagem informando o saldo mÃ©dio e o valor
+de crÃ©dito.
+                          Saldo MÃ©dio              Percentual
+                          de 0 a 500             nenhum crÃ©dito
+                        de 501 a 1000            30% do valor do saldo mÃ©dio
+                       de 1001 a 3000            40% do valor do saldo mÃ©dio
+                       acima de 3001             50% do valor do saldo mÃ©dio */
 
 
 
